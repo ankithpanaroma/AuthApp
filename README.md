@@ -1,6 +1,6 @@
 ## How to run the app:
 
-1. Create a venv and activate it
-2. Install all the requirements
-3. cd into the backend and ```uvicorn main:app --reload```
-4. cd in frontend/auth-app and ```npm start```
+1. Create a venv and activate it-
+3. cd into the backend, install all the requirements with ```pip install -r requirememnts.txt```
+4. Start the backend ```uvicorn main:app --reload```
+5. cd in frontend/auth-app and ```npm start``` to start the frontend.
