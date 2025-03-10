@@ -1,0 +1,43 @@
+# .gitignore
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Python notebooks
+.ipynb_checkpoints/
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+*.env
+.venv
+*.venv
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter runtime
+~$*

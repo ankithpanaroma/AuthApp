@@ -1,0 +1,15 @@
+python-dotenv
+bcrypt
+cryptography
+fastapi
+python-jose
+python-multipart
+SQLAlchemy
+uvicorn
+passlib
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+fastapi-azure-auth
+httpx
+msal
